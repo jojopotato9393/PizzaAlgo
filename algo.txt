@@ -1,3 +1,4 @@
 1. Decide which business to order from.
-2. decide which type of pizza to order.
-3. Branch test
+2. Decide which type of pizza to order.
+3. Decide which toppings you want.
+4. Decide what size (S,M,L).
